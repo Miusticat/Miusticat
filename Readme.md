@@ -1,5 +1,30 @@
 # 💫 About Me:
-Hi there! I'm Lady Johana Torres, a 21-year-old programmer from Colombia. I'm a Software Development tech grad and currently studying Software Engineering. I'm all about web and app development with a strong focus on UI/UX design.<br><br>I dive into both front-end and back-end work, using various languages and frameworks to create cool, user-friendly solutions. Check out my GitHub profile to see some of the projects I've worked on and the skills I've picked up along the way.<br><br>I’m always up for new challenges and love collaborating on exciting projects. Feel free to browse my work and drop me a message if you want to chat or work together!
+I'm Lady Johana Torres Ríos, a Software Engineer with a career defined by technical growth and adaptability. I began by writing low-level scripts in PAWNO, which gave me early exposure to system logic, control flow, memory efficiency, and real-time data handling.
+
+Over time, I transitioned from scripting to building fully integrated web platforms, and then into designing enterprise-grade software architectures. Thanks to a strong self-driven mindset and technical focus, I developed the ability to build solutions from the ground up — modular, secure, scalable, and business-oriented.
+
+Today, I’m fully capable of architecting, developing, deploying, and maintaining complex, production-level systems across multiple environments.
+
+🧠 Core Tech Stack:
+Backend: PHP, Laravel, C#, business logic, process automation
+
+Frontend: JavaScript, Vue.js, SCSS, responsive UI, RESTful API consumption
+
+Databases: MySQL, SQL Server, Oracle (modeling, optimization, advanced relations)
+
+DevOps & CI/CD: Git, GitHub, pipeline management, AWS integration
+
+Infrastructure & Virtualization: Virtual machines, Linux environments, Kali Linux
+
+Best Practices: MVC architecture, backend security, service decoupling, unit testing, clean documentation
+
+Currently focused on:
+
+🔐 Cybersecurity: Vulnerability assessment, system hardening, incident response, offensive/defensive tactics.
+
+📱 Mobile app development: Focused on secure connectivity, practical functionality.
+
+I'm driven by designing elegant, effective software solutions — from problem analysis to deployment — and optimizing every layer of the stack. I'm looking to join technically ambitious teams that value innovation, quality engineering, and continuous learning.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Miusticat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Miusticat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lady-torres-rios-88b69631a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Miusticat) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Miusticat) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Miusticat) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Miusticat) 
