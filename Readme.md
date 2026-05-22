@@ -4,7 +4,7 @@
 
 ### Building intelligent systems, automation platforms, and scalable digital infrastructure.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Systems+Developer;Automation+%26+Infrastructure+Focused;Building+Modern+Administrative+Platforms;Future+Software+Founder" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Systems+Developer;Automation+%26+Infrastructure+Focused;Building+Modern+Administrative+Platforms;Future+Software" />
 
 </div>
 
@@ -28,7 +28,6 @@ I enjoy designing systems that feel:
 - scalable
 - intuitive
 - performant
-- elegant
 
 ---
 
@@ -40,7 +39,7 @@ Worked within a large-scale international GTA V community infrastructure environ
 
 Led and developed multiple internal systems and administrative tools, including:
 
-- Full administrative dashboards using Next.js & SQL Server
+- Full administrative dashboards using Next.js with TypeScript + Prisma ORM SQL Server + Tailwind CSS v4 + API'S 
 - Discord-integrated authentication systems
 - Permission architecture & role synchronization
 - Two-factor authentication security systems
@@ -63,5 +62,72 @@ Focused on scalability, operational efficiency, automation, and administrative w
 PHP
 JavaScript
 TypeScript
+Python
 C#
 SQL
+```
+
+## FrontEnd
+```txt
+React
+Next.js
+TailwindCSS
+HTML5
+CSS3
+```
+## Backend & Infrastructure
+```txt
+AWS
+Node.js
+Firebase
+Discord APIs
+REST APIs
+Authentication Systems
+Permission Systems
+Automation Pipelines
+```
+
+## Databases
+```txt
+SQL Server
+PostgreSQL
+MySQL
+Firebase
+Oracle Database
+```
+
+# Current Focus
+
+## Currently focused on:
+
+- Automation systems
+- SaaS-oriented platforms
+- Full Software ecosystems
+- Developer tools
+- Branding-oriented software
+- Performance-focused architectures
+
+# Philosophy
+
+Software should not only function correctly.
+It should feel intelligent, elegant, and timeless.
+
+## I believe great software is built at the intersection of:
+
+- logic
+- usability
+- performance
+
+# Connect
+```txt
+Discord     → miusticat
+GitHub      → github.com/Miusticat
+Brand       → Miusticat Dev
+```
+
+
+
+
+
+
+
